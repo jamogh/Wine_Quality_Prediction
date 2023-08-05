@@ -1,4 +1,4 @@
-# Prediction-of-Wine-Quality
+# Wine-Quality-Prediction
 
 <img src="https://miro.medium.com/max/875/1*2ayKmvVZCYaLPl-nmLLp5g.png">
 
